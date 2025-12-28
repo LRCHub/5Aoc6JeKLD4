@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "就是愛妳",
+  "base_artist": "陶喆",
+  "createdAt": "2025-12-28T14:38:54.572891Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "就是愛妳",
+      "artist": "David Tao",
+      "has_synced": true,
+      "path": "select/01_就是愛妳_David_Tao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "就是愛妳 - Love Can......",
+      "artist": "David Tao",
+      "has_synced": true,
+      "path": "select/02_就是愛妳_-_Love_Can......_David_Tao.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "就是愛妳",
+      "artist": "陶喆",
+      "has_synced": false,
+      "path": "select/pl_01_就是愛妳_陶喆.txt"
+    }
+  ]
+}
